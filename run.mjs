@@ -1,4 +1,4 @@
-import { list, pythonSummary, repeat, selectors, stdout } from '@cairul/plugin-kit/runner';
+import { list, pythonSummary, repeat, selectors, stdout } from '@cairul/pdk/runner';
 
 export default {
   command: ['python3', 'manage.py'],
